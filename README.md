@@ -14,6 +14,8 @@ Enterprise-ready **Signature Verification System** using a CNN and FastAPI. It d
 
 Watch the screen recording of the model training and setup process:
 
+![Training Preview](docs/assets/training-preview.gif)
+
 [Training Session Video](Recording 2026-03-11 213729.mp4)
 
 ## Features
