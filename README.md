@@ -115,14 +115,8 @@ docker run -p 8000:8000 -v ${PWD}\artifacts:/app/artifacts signature-verifier
 - Monitor latency and error rates
 - Log verification outcomes for audit trails
 
-## Project Credits
-
-- **Name:** iliyasmahamd H jalaladar
-- **UUCMS No:** U02AJ23S0415
-- **Email:** jalaldarilyas@gmail.com
-- **Guide:** smt kubra shirur
-- **Program:** Final Year Project (BCA)
-- **Institution:** Government First College, Dharwad - 580001
+## Project Credits 
+This was an Final Year Project created for a student by Rohit Bagewadi
 
 ## License
 
